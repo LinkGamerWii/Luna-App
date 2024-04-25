@@ -10,7 +10,7 @@ Luna
 Luna is a homebrew app designed to dump Animal Crossing: New Horizons islands you visit.
 
 ## Disclaimer & License
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ixaruz/Luna-App/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/LinkGamerWii/Luna-App/blob/main/LICENSE)
 - Luna is not affiliated with, endorsed or approved by Nintendo or Animal Crossing: New Horizons in any way.
 - Luna is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. *See the GNU General Public License for more details.*
 
