@@ -1,7 +1,7 @@
 Luna
 =====
 <div>
-  <span>English</span> / <a href="https://github.com/Ixaruz/Luna-App/blob/main/README-de.md">German (Deutsch)</a>
+  <span>English</span> / <a href="https://github.com/LinkGamerWii/Luna-App/blob/main/README-de.md">German (Deutsch)</a>
 </div>
 
 ![Banner](bannerslim.png?raw=true)
@@ -22,11 +22,11 @@ Luna is a homebrew app designed to dump Animal Crossing: New Horizons islands yo
 
 ### Installation
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ixaruz/Luna-App?label=Release)](https://github.com/Ixaruz/Luna-App/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/LinkGamerWii/Luna-App?label=Release)](https://github.com/LinkGamerWii/Luna-App/releases/tag/0.6.13)
 [![Actions Status](https://github.com/Ixaruz/Luna-App/workflows/Build/badge.svg)](https://github.com/Ixaruz/Luna-App/actions)
 
-Head to the [release page](https://github.com/Ixaruz/Luna-App/releases/) and download the latest released luna.zip and extract it onto your Switch's SD card.   
-Luna requires a save-file-template to work. either use your own save file<sup>[1]</sup> or use the included [enctemplate.zip](https://github.com/Ixaruz/Luna-App/raw/main/enctemplate.zip) and unzip it in   `SD:/config/luna/enctemplate`.
+Head to the [release page](https://github.com/LinkGamerWii/Luna-App/releases/) and download the latest released luna.zip and extract it onto your Switch's SD card.   
+Luna requires a save-file-template to work. either use your own save file<sup>[1]</sup> or use the included [enctemplate.zip](https://github.com/LinkGamerWii/Luna-App/blob/main/enctemplate.zip) and unzip it in   `SD:/config/luna/enctemplate`.
 
 <br>
 <sup>[1]</sup><smaller>under the requirement, that it has the same amount of players (or more) as the island you are trying to dump.
@@ -73,7 +73,7 @@ If everything went right, you now have a dumped island in the dump folder, which
 - [x] release
   
 ## Credits
-Thanks to:
+Thanks to:DJanielFF(LinkGamerWii)
 - WinterMute, fincs and contributors of [devkitPro](https://devkitpro.org/) and specifically devkitA64
 - Yellows8 and all the mantainers of [switch-examples](https://github.com/switchbrew/switch-examples)
 - kwsch and contributors of [NHSE](https://github.com/kwsch/NHSE)
