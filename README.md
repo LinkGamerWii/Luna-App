@@ -74,5 +74,11 @@ If everything went right, you now have a dumped island in the dump folder, which
   
 ## Credits
 Thanks to:
+- WinterMute, fincs and contributors of [devkitPro](https://devkitpro.org/) and specifically devkitA64
+- Yellows8 and all the mantainers of [switch-examples](https://github.com/switchbrew/switch-examples)
+- kwsch and contributors of [NHSE](https://github.com/kwsch/NHSE)
+- Ninji for their [CylindricalEarth](https://github.com/Treeki/CylindricalEarth) research
+- Slattz for being a bad bitch and creating [LibACNH](https://github.com/Slattz/LibACNH)
+- WerWolv for handling my constant questioning
 
-LinkOcarinaGamer
+Luna is based on Atmosphère's [Daybreak](https://github.com/Atmosphere-NX/Atmosphere/tree/master/troposphere/daybreak), Adubbz's [NanoVG port to deko3d](https://github.com/Adubbz/nanovg-deko3d) and the filehandling of J-D-K's [JKSV](https://github.com/J-D-K/JKSV), as well as my own arduous research on Animal Crossing: New Horizons' inner workings of visiting other people's islands.
